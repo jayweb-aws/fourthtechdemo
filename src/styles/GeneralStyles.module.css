@@ -1,0 +1,105 @@
+.bgImg {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.63),
+      rgba(0, 0, 0, 0.63)
+    ),
+    url("../assets/bootCampImages/ImagesBootcamps/Bootcamp_banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.newBannerImg {
+  background-image: 
+    url("../assets/newbanner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.registrationTopBGCyberSecurity{
+  background-image: url("../assets/Registration_Cybersecurity_TopBG.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.aboutBG{
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.63),
+      rgba(0, 0, 0, 0.63)
+    ),
+    url("../assets/about.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.testimonialBG{
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.63),
+      rgba(0, 0, 0, 0.63)
+    ),
+    url("../assets/testimonialTop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.consultingBG{
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.63),
+      rgba(0, 0, 0, 0.63)
+    ),
+    url("../assets/Consulting/Consulting\ Banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.CompletedLesBg{
+  background-image: 
+    url("../assets/01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.SigninBg{
+  background-image: 
+    url("../assets/Hopemain.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left center;
+}
+.lessonBg{
+  background-image: 
+  url("../assets/pexels-vlada-karpovich-4050333.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.dashboardTopBg{
+  background-image: 
+  url("../assets/dashborad-top-banner.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+@media screen and (max-width: 600px) {
+  .SigninBg{
+    background-size: cover;
+  }
+}
+.liveBG{
+  background-image: 
+  url("../assets/dashboard/student-class-looking-course.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+@media screen and (max-width: 600px) {
+  .liveBG{
+    background-size: cover;
+  }
+}

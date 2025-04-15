@@ -1,0 +1,154 @@
+
+.AllFileContent h3 {
+    font-size: 21px;
+    color: #232D42;
+    font-weight: 500;
+}
+
+
+
+
+.documentCardImg  {
+    width: 91px !important;
+}
+
+
+.FileDocuments > h2{
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 130%;
+    letter-spacing: 0.02em;
+    color: #232D42;
+    padding-bottom: 1.5rem;
+}
+
+.dff35mb {
+    color: #3A57E8 !important;
+    font-size: 18px;
+    /* line-height: 175%; */
+/* identical to box height, or 28px */
+    /* letter-spacing: 0.02em; */
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.documentCardFooterContentMiddle img {
+    width: 29px !important;
+    height: 33px !important;
+}
+
+.documentCardFooterContentMiddle h3 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 175%;
+    align-items: center;
+    color: #232D42;
+}
+
+.documentCardFooterContentbottom{
+    padding: 7px 0px !important;
+}
+.documentCardFooterContentbottom > h3 {
+    font-family: revert;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 175%;
+/* identical to box height, or 28px */
+    letter-spacing: 0.02em;
+
+/* #8A92A6__Text 2 */
+    color: #8A92A6;
+}
+
+.documentCardFooterContentTop span {
+    color: #8A92A6;
+}
+
+span.juose {
+    color: #3A57E8;
+}
+
+
+
+.documentCardImgImg{
+    background-size: 100% 100%;
+    width: 100%;
+    height: 218px;
+    background-repeat: no-repeat;
+    border-radius: 6px;
+    text-align: right;
+}
+
+.documentCardImgImg img {
+    padding: 15px 8px !important;
+}
+
+
+.documentCardImgImgVideo {
+background-size: 100% 100%;
+width: 100%;
+height: 218px;
+background-repeat: no-repeat;
+border-radius: 6px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.documentCardFooterContentMiddleVideo{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+
+.documentCardFooterContent{
+    padding-top: 1.1rem;
+}
+
+.assignment_grade_heading_right button  img {
+    width: 18px !important;
+}
+
+
+.assignment_grade_body_body button  img {
+    width: 18px !important;
+}
+
+
+
+
+.assingment_comment_input > input {
+    width: 368px;
+    height: 42px;
+    margin-bottom: 8px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.15);
+    border-radius: 6px;
+}
+
+
+.assingment_comment_input > button{
+    font-weight: 400;
+    text-align: center;
+    font-size: 13px;
+    letter-spacing: 0.02em;
+    margin-left: auto;
+    margin-top: 9px;
+    color: #FFFFFF;
+    height: 42px;
+    background: #3A57E8;
+    border-radius: 4px;
+}
+
+
+.Assignment_grade_body {
+    margin-top: 1.5rem;
+    background: #fff;
+    padding-left: 25px;
+    padding-right: 86px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+}

@@ -1,0 +1,58 @@
+.bgImg {
+    background-image:
+    linear-gradient(180deg, rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.63)), url("../assets/ContactHero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.ourcss span {
+    overflow: visible !important;
+}
+
+@media (min-width: 100px) and (max-width: 400px) {
+    .responsiveTable{
+        width: 400px
+    }
+  }
+@media (min-width: 401px) and (max-width: 450px) {
+    .responsiveTable{
+        width: 390px
+    }
+  }
+@media (min-width: 451px) and (max-width: 500px) {
+    .responsiveTable{
+        width: 440px
+    }
+  }
+@media (min-width: 500px) and (max-width: 550px) {
+    .responsiveTable{
+        width: 490px
+    }
+  }
+@media (min-width: 551px) and (max-width: 600px) {
+    .responsiveTable{
+        width: 540px
+    }
+  }
+@media (min-width: 600px) and (max-width: 650px) {
+    .responsiveTable{
+        width: 590px
+    }
+  }
+@media (min-width: 650px) and (max-width: 700px) {
+    .responsiveTable{
+        width: 640px
+    }
+  }
+@media (min-width: 700px) and (max-width: 750px) {
+    .responsiveTable{
+        width: 690px
+    }
+  }
+@media (min-width: 750px) and (max-width: 800px) {
+    .responsiveTable{
+        width: 740px
+    }
+  }
